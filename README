@@ -1,0 +1,4 @@
+Checks a browser's IE-ness (IE or not IE) and platform (32-bit or 64-bit IE).
+It prints a "Supported" message only if browser is 32-bit IE
+
+Author: Sanja Curgus http://curg.us
